@@ -264,6 +264,9 @@ tapGameFire()
 tapGameFire()
 teleportAndLook(5)
 tapGameFire()
+tapGameFire()
+tapGameFire()
+tapGameFire()
 -----
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
