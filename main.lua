@@ -1,8 +1,5 @@
 -- Wait for the game to fully load
-if not game:IsLoaded() then
-    game.Loaded:Wait()
-end
-
+wait(10)
 print("Game loaded, skipping...")
 wait(1)
 print("🩻")
